@@ -1,0 +1,11 @@
+# Ignore other common file
+.gradle/
+.m2/
+.android/
+.docker/
+.gitconfig
+.bash_history
+.cache/
+.config/
+.emulator_console_auth_token
+
